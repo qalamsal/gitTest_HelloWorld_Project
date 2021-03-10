@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/Classwork/Encryption.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/META-INF/gitTestHelloWorld.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/branch1/Branch1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classwork/Encryption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classwork/Encryption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/branch1/Branch1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +120,7 @@
       <workItem from="1609964261010" duration="1197000" />
       <workItem from="1612454094034" duration="573000" />
       <workItem from="1614189147677" duration="926000" />
-      <workItem from="1615306972366" duration="1421000" />
+      <workItem from="1615306972366" duration="2265000" />
     </task>
     <task id="LOCAL-00001" summary="github.com added..">
       <created>1585233715229</created>
